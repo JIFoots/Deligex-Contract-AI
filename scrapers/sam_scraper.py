@@ -2,7 +2,7 @@ import requests
 import json
 
 # Replace with your actual API key
-API_KEY = "YOUR_SAM_API_KEY"
+API_KEY = "cMOe9CLiZLwnx0TUMhDiAnOtXHNanCY5z2u1adiZ"
 
 def fetch_sam_contracts():
     url = "https://api.sam.gov/opportunities/v2/search"
